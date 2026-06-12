@@ -304,13 +304,19 @@ h2 {
     width: 100%;
 }
 
-.copyright {
+.copyright  {
     margin-top: 40px;
     padding-top: 20px;
-    border-top: 1px solid rgba(255, 255, 255, 0.15);
+    border-top: 1px solid rgba(255, 255, 255, 0.413);
     text-align: center;
     color: #bbb;
-    font-size: 0.9rem;
+    font-size: 1rem;
+}
+
+.copyright a{
+    text-decoration: none;
+    color: inherit;
+    
 }
 
 
